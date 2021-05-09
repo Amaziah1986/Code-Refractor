@@ -55,7 +55,7 @@ p {
 }
 /* Set Background Image and positioning*/
 .hero img{
-    background-image: url("./digital-marketing-meeting.jpg") ;
+    background-image: url("digital-marketing-meeting.jpg") ;
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
