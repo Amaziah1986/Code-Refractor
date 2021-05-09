@@ -31,7 +31,7 @@ body {
 }
 
 .header div {
-/* Moved contents to within the block and place to the right.*/
+/* Moved contents to within the block and place to the right */
   display: inline-block;
     padding-top: 15px;
     margin-right: 20px;
