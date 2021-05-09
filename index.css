@@ -58,8 +58,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("https://github.com/Amaziah1986/Code-Refractor/blob/75aa69d1d12e7f18a3bad1adeaafc79b0699501d/digital-marketing-meeting.jpg") ;
-    background-size: cover;
+        background-size: cover;
     background-position: center;
 }
 
